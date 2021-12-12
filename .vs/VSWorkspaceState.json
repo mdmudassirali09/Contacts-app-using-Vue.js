@@ -1,11 +1,12 @@
 {
   "ExpandedNodes": [
     "",
+    "\\nginx",
     "\\public",
     "\\src",
     "\\src\\assets",
     "\\src\\components"
   ],
-  "SelectedNode": "\\Test.html",
+  "SelectedNode": "\\nginx\\nginx.conf",
   "PreviewInSolutionExplorer": false
 }
